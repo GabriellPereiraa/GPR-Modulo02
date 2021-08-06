@@ -18,10 +18,10 @@
                 
                 <ul class="menu ms-3">
                     <li class="sidebar-item">
-                        <a href="../Topico01.php" class="MenuTopico sidebar-link">Tópico 01 - Políticas Públicas: origens e conceitos</a>
+                        <a href="../Topico01.php" class="MenuTopico sidebar-link">Tópico 01 - Administração Pública e Paradigmas</a>
                     </li>
                     <li class="sidebar-item">
-                        <a href="../Topico02.php" class="MenuTopico sidebar-link">Tópico 02 - Formulação e Análise de Políticas Públicas</a>
+                        <a href="../Topico02.php" class="MenuTopico sidebar-link">Tópico 02 - O paradigma da Administração Patrimonial</a>
                     </li>
                     <li class="sidebar-item">
                         <a href="../Topico03.php" class="MenuTopico sidebar-link">Tópico 03 - Ciclo de Políticas Públicas</a>
