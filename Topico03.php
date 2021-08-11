@@ -132,11 +132,7 @@
                                     <p class="CuriosidadeTexto"><strong>Segundo</strong>,a elevada complexidade ambiental tem levado à constatação de que nenhum dos paradigmas atuais é capaz de, isoladamente, enfrentar os desafios colocados à administração pública. Surge, neste cenário, o conceito de Metagovernança, como uma junção dos três modelos básicos de governança: hierárquica (burocrática), mercado e rede. Por outro lado, como se verá mais adiante, a governança do setor público definida para a Austrália, contém simultaneamente elementos do paradigma burocrático, da nova gestão pública e da governança pública. Assim, o paradigma burocrático surge como um dos componentes básicos para os modelos de governança da administração pública.</p>
                                     <p class="CuriosidadeTexto"><strong>Terceiro</strong>, observa-se uma ampla discussão e revisão na literatura especializada a respeito do papel e importância da organização burocrática. Alguns autores questionam, por diferentes razões, as hipóteses ou mesmo afirmativas enfáticas sobre a obsolescência, declínio, inviabilidade e desaparecimento das organizações burocráticas. Já outros observam que, apesar das fortes críticas, as organizações burocráticas continuam a constituir fatores fundamentais para a defesa da democracia e dos valores republicanos. Por sua vez, são apresentadas pesquisas empíricas que demonstram o forte crescimento das organizações burocráticas em </p>
                                 </div>
-                                <hr>
-
-
-
-
+                                <br>
 
                             </div> <!-- CLASS PAGE TITLE FIM -->                            
                         </div> <!-- End col-md-10 -->

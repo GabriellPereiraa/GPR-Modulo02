@@ -26,6 +26,9 @@
                     <li class="sidebar-item">
                         <a href="../Topico03.php" class="MenuTopico sidebar-link">Tópico 03 - O paradigma da Administração Burocrática</a>
                     </li>
+                    <li class="sidebar-item">
+                        <a href="../Topico04.php" class="MenuTopico sidebar-link">Tópico 04 - O paradigma da Nova Gestão Pública</a>
+                    </li>
                 </ul>
             </div>
             <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>
