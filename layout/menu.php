@@ -24,7 +24,7 @@
                         <a href="../Topico02.php" class="MenuTopico sidebar-link">Tópico 02 - O paradigma da Administração Patrimonial</a>
                     </li>
                     <li class="sidebar-item">
-                        <a href="../Topico02.php" class="MenuTopico sidebar-link">Tópico 03 - O paradigma da Administração Burocrática</a>
+                        <a href="../Topico03.php" class="MenuTopico sidebar-link">Tópico 03 - O paradigma da Administração Burocrática</a>
                     </li>
                 </ul>
             </div>
