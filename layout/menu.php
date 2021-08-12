@@ -54,6 +54,9 @@
                     <li class="sidebar-item">
                         <a href="../Topico05.php" class="MenuTopico sidebar-link">Tópico 05 - O paradigma da Governança Pública</a>
                     </li>
+                    <li class="sidebar-item">
+                        <a href="../Referencias.php" class="MenuTopico sidebar-link">Referencias</a>
+                    </li>
                 </ul>
             </div>
             <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>
