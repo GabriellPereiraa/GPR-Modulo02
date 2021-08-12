@@ -26,8 +26,33 @@
                     <li class="sidebar-item">
                         <a href="../Topico03.php" class="MenuTopico sidebar-link">Tópico 03 - O paradigma da Administração Burocrática</a>
                     </li>
+                    <li class="sidebar-item has-sub">
+                        <a href="#" class="MenuTopico sidebar-link">Tópico 04 - O paradigma da Nova Gestão Pública</a>
+                        <ul class="submenu">
+                            <li class="sidebar-item">
+                                <a href="../Topico04.php#SubTopico4.1" class="sidebar-sub">
+                                    <span>4.1 - O Gerencialismo Puro</span>
+                                </a>
+                            </li>
+                            <li class="sidebar-item">
+                                <a href="../Topico04.php#SubTopico4.2" class="sidebar-sub">
+                                    <span>4.2- A Nova Gestão Pública: diversidade, amplitude e evolução</span>
+                                </a>
+                            </li>
+                            <li class="sidebar-item">
+                                <a href="../Topico04.php#SubTopico4.3" class="sidebar-sub">
+                                    <span>4.3 - Orientação para Resultados: foco básico da Nova Gestão Pública</span>
+                                </a>
+                            </li>
+                            <li class="sidebar-item">
+                                <a href="../Topico04.php#SubTopico4.4" class="sidebar-sub">
+                                    <span>4.4 - Análise Crítica da Nova Gestão Pública</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
                     <li class="sidebar-item">
-                        <a href="../Topico04.php" class="MenuTopico sidebar-link">Tópico 04 - O paradigma da Nova Gestão Pública</a>
+                        <a href="../Topico05.php" class="MenuTopico sidebar-link">Tópico 05 - O paradigma da Governança Pública</a>
                     </li>
                 </ul>
             </div>
