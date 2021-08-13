@@ -74,41 +74,115 @@
 
                                 <p class="Texto">São muito longas e diversas as deficiências, disfunções e/ou consequências inesperadas apresentadas pelo paradigma da Administração Burocrática, segundo diferentes autores.</p>
                                 <br>
-                                <hr>
 
-                                <p class="SubSubTitulo">Internalização e apego aos regulamentos</p>
+                                <div class="accordion accordion-flush" id="AccordionFase01">
+                                    <div class="text-center">
+                                        <h6 class="fs-6 SmallCaps badge bg-warning text-dark"><svg class="svg-inline--fa fa-lightbulb fa-w-11" aria-hidden="true" focusable="false" data-prefix="fa" data-icon="lightbulb" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" data-fa-i2svg=""><path fill="currentColor" d="M96.06 454.35c.01 6.29 1.87 12.45 5.36 17.69l17.09 25.69a31.99 31.99 0 0 0 26.64 14.28h61.71a31.99 31.99 0 0 0 26.64-14.28l17.09-25.69a31.989 31.989 0 0 0 5.36-17.69l.04-38.35H96.01l.05 38.35zM0 176c0 44.37 16.45 84.85 43.56 115.78 16.52 18.85 42.36 58.23 52.21 91.45.04.26.07.52.11.78h160.24c.04-.26.07-.51.11-.78 9.85-33.22 35.69-72.6 52.21-91.45C335.55 260.85 352 220.37 352 176 352 78.61 272.91-.3 175.45 0 73.44.31 0 82.97 0 176zm176-80c-44.11 0-80 35.89-80 80 0 8.84-7.16 16-16 16s-16-7.16-16-16c0-61.76 50.24-112 112-112 8.84 0 16 7.16 16 16s-7.16 16-16 16z"></path></svg><!-- <i class="fa fa-lightbulb"></i> --> Clique nos títulos abaixo para mais informações</h6>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="Item01">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                            <strong>Internalização e apego aos regulamentos</strong>
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                            <div class="accordion-body">
+                                                <p class="Texto">Preferência pelas normas, provocando um deslocamento das metas para os meios/recursos e conferindo ao funcionário um comportamento tecnicista, conservador e incapaz de inovação, criatividade, ajustamento ou adaptação às mudanças;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="accordion-item Texto">
+                                        <h2 class="accordion-header" id="Item02">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                            <strong>Excesso de formalismos e registros</strong>
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                            <div class="accordion-body">
+                                                <p class="Texto">Necessidade de documentar formalmente qualquer comunicação, desconsiderando os novos meios de registro e divulgação de informações;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="accordion-item Texto">
+                                        <h2 class="accordion-header" id="Item03">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                            <strong>Resistências às mudanças</strong>
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                            <div class="accordion-body">
+                                                <p class="Texto">A repetição e a imutabilidade da rotina burocrática forçam o funcionário a optar pela segurança de sua atividade, levando a que as perspectivas de mudança sejam interpretadas como perigos à sua tranquilidade, ao conforto e a conquistas;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="accordion-item Texto">
+                                        <h2 class="accordion-header" id="Item04">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                            <strong>Despersonalização do relacionamento</strong>
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                            <div class="accordion-body">
+                                                <p class="Texto">A impessoalidade da burocracia dificulta a individualização dos funcionários, implicando um relacionamento puramente formal, baseado nos cargos, matrículas ou outras formas de identificação funcional; </p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="accordion-item Texto">
+                                        <h2 class="accordion-header" id="Item05">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                                            <strong>Categorização com base no processo decisório</strong>
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="Item05" data-bs-parent="#AccordionFase01">
+                                            <div class="accordion-body">
+                                                <p class="Texto">Devido à rigidez hierárquica, qualquer decisão compete ao cargo mais elevado, independentemente do conhecimento sobre o tema, dificultando a busca e reduzindo as opções de respostas aos problemas enfrentados; </p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 
-                                <p class="Texto">Preferência pelas normas, provocando um deslocamento das metas para os meios/recursos e conferindo ao funcionário um comportamento tecnicista, conservador e incapaz de inovação, criatividade, ajustamento ou adaptação às mudanças;</p>
+                                    <div class="accordion-item Texto">
+                                        <h2 class="accordion-header" id="Item06">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                                            <strong>Superconformidade às rotinas e aos procedimentos</strong>
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="Item06" data-bs-parent="#AccordionFase01">
+                                            <div class="accordion-body">
+                                                <p class="Texto">A devoção às normas, aos regulamentos e aos procedimentos leva o funcionário a preocupar-se unicamente com seu cumprimento, sem uma plena compreensão do sentido das ações, e a executar apenas as determinações normativas. Em decorrência, a organização perde a flexibilidade e a capacidade de criação e de inovação; </p>
+                                            </div>
+                                        </div>
+                                    </div>
 
-                                <p class="SubSubTitulo">Excesso de formalismos e registros</p>
+                                    <div class="accordion-item Texto">
+                                        <h2 class="accordion-header" id="Item07">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                                            <strong>Exibição de sinais de autoridade</strong>
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="Item07" data-bs-parent="#AccordionFase01">
+                                            <div class="accordion-body">
+                                                <p class="Texto">A elevada importância da hierarquização leva os funcionários à necessidade de permanente exibição de sua posição de autoridade, alardeando símbolos e outros sinais reveladores do status e provocando, consequentemente, comportamentos e posições segregadores, em detrimento da colaboração e articulação na execução das atividades conjuntas;</p>
+                                            </div>
+                                        </div>
+                                    </div>
 
-                                <p class="Texto">Necessidade de documentar formalmente qualquer comunicação, desconsiderando os novos meios de registro e divulgação de informações;</p>
-
-                                <p class="SubSubTitulo">Resistências às mudanças</p>
-
-                                <p class="Texto">A repetição e a imutabilidade da rotina burocrática forçam o funcionário a optar pela segurança de sua atividade, levando a que as perspectivas de mudança sejam interpretadas como perigos à sua tranquilidade, ao conforto e a conquistas; </p>
-
-                                <p class="SubSubTitulo">Despersonalização do relacionamento</p>
-
-                                <p class="Texto">A impessoalidade da burocracia dificulta a individualização dos funcionários, implicando um relacionamento puramente formal, baseado nos cargos, matrículas ou outras formas de identificação funcional; </p>
-
-                                <p class="SubSubTitulo">Categorização com base no processo decisório</p>
-
-                                <p class="Texto">Devido à rigidez hierárquica, qualquer decisão compete ao cargo mais elevado, independentemente do conhecimento sobre o tema, dificultando a busca e reduzindo as opções de respostas aos problemas enfrentados; </p>
-
-                                <p class="SubSubTitulo">Superconformidade às rotinas e aos procedimentos</p>
-
-                                <p class="Texto">A devoção às normas, aos regulamentos e aos procedimentos leva o funcionário a preocupar-se unicamente com seu cumprimento, sem uma plena compreensão do sentido das ações, e a executar apenas as determinações normativas. Em decorrência, a organização perde a flexibilidade e a capacidade de criação e de inovação; </p>
-
-                                <p class="SubSubTitulo">Exibição de sinais de autoridade</p>
-
-                                <p class="Texto">A elevada importância da hierarquização leva os funcionários à necessidade de permanente exibição de sua posição de autoridade, alardeando símbolos e outros sinais reveladores do status e provocando, consequentemente, comportamentos e posições segregadores, em detrimento da colaboração e articulação na execução das atividades conjuntas;</p>
-
-                                <p class="SubSubTitulo">Dificuldade no atendimento a clientes e conflitos com o público</p>
-
-                                <p class="Texto">o forte compromisso com a padronização das atividades incorpora-se como valor interno, provocando um relacionamento padronizado e impessoal dos funcionários para com o público, que muitas vezes espera um atendimento personalizado e de acordo com suas demandas e necessidades específicas.</p>
-
-                                <hr>
+                                    <div class="accordion-item Texto">
+                                        <h2 class="accordion-header" id="Item08">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
+                                            <strong>Dificuldade no atendimento a clientes e conflitos com o público</strong>
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="Item08" data-bs-parent="#AccordionFase01">
+                                            <div class="accordion-body">
+                                                <p class="Texto">o forte compromisso com a padronização das atividades incorpora-se como valor interno, provocando um relacionamento padronizado e impessoal dos funcionários para com o público, que muitas vezes espera um atendimento personalizado e de acordo com suas demandas e necessidades específicas.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <br>
 
                                 <p class="Texto">Mesmo com as inúmeras críticas apresentadas, o modelo burocrático foi imprescindível para a consolidação do capitalismo e do Estado de Direito, gerando previsibilidade através da obrigação do cumprimento das normas gerais e da garantia da segurança jurídica ao mercado. Além disso, conferiu eficiência e modernidade à administração pública, por meio da sua racionalidade científica e das novas exigências e valores morais. Finalmente, atendeu também às demandas dos trabalhadores, uma vez que o conhecimento prévio das normas e regras proporcionavam imparcialidade e justiça.</p>
