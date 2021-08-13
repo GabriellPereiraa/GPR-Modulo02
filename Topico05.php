@@ -24,7 +24,7 @@
                         <div class="col-md-10"> <!-- Begin col-md-10 -->
                             <div class="page-title">
                                 
-                                <h2 class="Titulo" >Tópico 5 - O paradigma da Governança Pública</h2>
+                                <h2 class="Titulo" >5 - O paradigma da Governança Pública</h2>
                                 <br>
 
                                 <p class="Texto">A prática demonstra que quando o modelo administrativo é bem entendido e assimilado pelos envolvidos o processo administrativo se torna mais fácil e de melhor qualidade. A transparência das informações trata-se de uma vantagem institucional e promove o respeito, equidade, direcionamento e segurança.  Dentro da administração pública a governança envolve questões de legitimidade, legalidade, interação, negociação, consenso, ética e combate a corrupção (OLIVEIRA,2014). Maiores informações sobre este paradigma pode ser visto adiante.</p>

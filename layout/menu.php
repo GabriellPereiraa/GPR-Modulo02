@@ -18,16 +18,16 @@
                 
                 <ul class="menu ms-3">
                     <li class="sidebar-item">
-                        <a href="../Topico01.php" class="MenuTopico sidebar-link">Tópico 01 - Administração Pública e Paradigmas</a>
+                        <a href="../Topico01.php" class="MenuTopico sidebar-link">01 - Administração Pública e Paradigmas</a>
                     </li>
                     <li class="sidebar-item">
-                        <a href="../Topico02.php" class="MenuTopico sidebar-link">Tópico 02 - O paradigma da Administração Patrimonial</a>
+                        <a href="../Topico02.php" class="MenuTopico sidebar-link">02 - O paradigma da Administração Patrimonial</a>
                     </li>
                     <li class="sidebar-item">
-                        <a href="../Topico03.php" class="MenuTopico sidebar-link">Tópico 03 - O paradigma da Administração Burocrática</a>
+                        <a href="../Topico03.php" class="MenuTopico sidebar-link">03 - O paradigma da Administração Burocrática</a>
                     </li>
                     <li class="sidebar-item has-sub">
-                        <a href="#" class="MenuTopico sidebar-link">Tópico 04 - O paradigma da Nova Gestão Pública</a>
+                        <a href="#" class="MenuTopico sidebar-link">04 - O paradigma da Nova Gestão Pública</a>
                         <ul class="submenu">
                             <li class="sidebar-item">
                                 <a href="../Topico04.php#SubTopico4.1" class="sidebar-sub">

@@ -24,7 +24,7 @@
                         <div class="col-md-10"> <!-- Begin col-md-10 -->
                             <div class="page-title">
                                 
-                                <h2 class="Titulo" >Tópico 4 - O paradigma da Nova Gestão Pública</h2>
+                                <h2 class="Titulo" >4 - O paradigma da Nova Gestão Pública</h2>
                                 <br>
 
                                 <p class="Texto">Durante as décadas de 1980 e de 1990, o mundo observou e vivenciou um profundo e amplo processo de modernização da administração pública e de reforma do Estado, baseado em um modelo que ficou conhecido como a New Public Management – NPM ( Nova Gestão Pública). </p>

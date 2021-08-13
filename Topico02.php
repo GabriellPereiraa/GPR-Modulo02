@@ -24,7 +24,7 @@
                         <div class="col-md-10"> <!-- Begin col-md-10 -->
                             <div class="page-title">
                                 
-                                <h2 class="Titulo" >Tópico 2 - O paradigma da Administração Patrimonial </h2>
+                                <h2 class="Titulo" >2 - O paradigma da Administração Patrimonial </h2>
                                 <br>
 
                                 <p class="Texto">A Administração Patrimonial foi o paradigma dominante nas sociedades pré-capitalistas e feudais, não significando, porém, que alguns de seus traços básicos não tenham subsistido até os dias de hoje, de forma permanente ou episódica, em determinados contextos ou circunstâncias. Para melhor compreensão do paradigma, convém distinguir a administração patrimonial do Estado ao qual está associado – o Estado Patrimonial. Mesmo porque, como tem acontecido com frequência, manifestações de gestão patrimonial têm ocorrido em Estados com características não necessariamente patrimoniais. </p>

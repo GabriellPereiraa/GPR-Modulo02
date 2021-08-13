@@ -24,7 +24,7 @@
                         <div class="col-md-10"> <!-- Begin col-md-10 -->
                             <div class="page-title">
                                 
-                                <h2 class="Titulo" >Tópico 1 - Administração Pública e Paradigmas </h2>
+                                <h2 class="Titulo" >1 - Administração Pública e Paradigmas </h2>
                                 <br>
 
                                 <p class="Texto">A administração pública é um termo amplo. De acordo com Oliveira (2014, p.4) é um “processo estruturado de planejamento, organização, orientação, execução, avaliação e aprimoramento das atividades da Instituição Pública no direcionamento em atender as necessidades e expectativas dos cidadãos da comunidade, visando o bem comum”.</p>

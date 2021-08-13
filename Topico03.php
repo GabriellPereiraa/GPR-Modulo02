@@ -24,7 +24,7 @@
                         <div class="col-md-10"> <!-- Begin col-md-10 -->
                             <div class="page-title">
                                 
-                                <h2 class="Titulo" >Tópico 3 - O paradigma da Administração Burocrática</h2>
+                                <h2 class="Titulo" >3 - O paradigma da Administração Burocrática</h2>
                                 <br>
 
                                 <p class="Texto">A Administração Burocrática é o paradigma que surge, em diversas épocas e países, em oposição, e como alternativa, ao paradigma da Administração Patrimonial. De fato, as distorções e os excessos praticados, ao longo do tempo, pelo Estado e pela Administração Patrimonial revelaram uma atuação prejudicial aos interesses gerais da sociedade e incompatível com os valores e as necessidades do capitalismo industrial e da democracia parlamentar nascente.</p>
